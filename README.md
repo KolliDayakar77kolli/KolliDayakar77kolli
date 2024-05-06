@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Mern Realtime Chat Web App**
 
-#- 🌱 I’m currently learning **MongoDB, Node.js**
+- 🌱 I’m currently learning **MongoDB, Node.js**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-kollidayakar.netlify.app/](https://portfolio-kollidayakar.netlify.app/)
 
